@@ -2,7 +2,7 @@
 
 ## Arquitetura na AWS
 
-![AWS](https://github.com/jamylguimaraes/iac-aws-ecs-python-app/blob/main/doc/images/app-ecs-rds-mq.png)
+![AWS](https://image2url.com/images/1763870875111-ddde97c0-adbc-4113-9851-a6fdd1b724a0.png)
 
 ## Pré-requisitos
 - Terraform >= 1.2
